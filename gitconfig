@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = puribe0@student.ubc.ca
+	name = priscilla uribe
